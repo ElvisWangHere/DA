@@ -1,2 +1,2 @@
 # DA
-Cousera (data analysis with python) materials
+Coursera (data analysis with python) materials
